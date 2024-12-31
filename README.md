@@ -1,7 +1,4 @@
 <h1 align="center" id="project_name">
-  <br />
-  <img src="" alt="Logo do site" width="54px">
-  <br />
   Kri - Sorteio de roteiro criativos
   <br />
 </h1>
