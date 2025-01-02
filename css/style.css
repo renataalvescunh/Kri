@@ -219,7 +219,24 @@ button{
 
 
 .ph-copy {
- display: none;
+  position: absolute;
+  right: 11vh;
+  margin-top: 100px;
 }
 
+.content-2 {
+    padding-top: 16vh;
+    height: 75vh;
+}
+
+.content-2 p {
+    text-align: center;
+    padding: 40px;
+    color: #080029;
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 65%;
+    margin-left: 18%;
+    border: 1px solid black;
+}
 }
