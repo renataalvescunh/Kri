@@ -10,5 +10,7 @@
 <h2 id="about">
 💻 Sobre o projeto
 </h2>
+<p> 
 Uma página de sorteio simples, mas que busca auxiliar escritores exercerem a criatividade com roteiros aleatórios, ou seja, você "deve" escrever independente de não gostar do que foi sorteado. Que tal aceitar esse desafio?
 
+</p>
